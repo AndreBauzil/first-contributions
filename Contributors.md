@@ -37,6 +37,7 @@
 - [Shawn Mels] (https://github.com/Shawnmels1998)
 - [Sandeep Gorule] (https://github.com/sandeepgorule)
 - [Katherine Robles] (https://github.com/KMR1221)
+- [Andre Bazuil] (https://github.com/AndreBauzil)
   [Ayo Michaels] (https://github.com/ayomichaels)
   [Zane]
   [Deepika Indran](https://github.com/deepiikaa24)
